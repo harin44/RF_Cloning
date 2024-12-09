@@ -23,6 +23,10 @@ Decoding the RF Signal
 
 - [URH user Guide](https://www.oldergeeks.com/downloads/files/userguide.pdf)
 
+Working with rolling codes
+-  [Controlling roller shutters using a remote with rolling codes](https://community.home-assistant.io/t/controlling-roller-shutters-using-a-remote-with-rolling-codes/453336)
+-  
+
  
 
 
