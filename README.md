@@ -9,7 +9,13 @@ Devices Used for this Signal indetification and Decoding
 Essential Softwares
 -  [Universal Radio Hacker](https://github.com/jopohl/urh)
 -  [spektrum](https://github.com/pavels/spektrum)
+
 Identify the range of the RF signal 
+
+-  turn on  spektrum, from this s/w we can identify the frequency range in which the rf wave is in
+-  to get the wave frequency connect the  RTL2832U USB SDR Dongle, and select the  device
+-  normally the rf remotes that we use mainly comes in the range of 300 - 400MHz therefore we can select a range of  300-400MHz to  idetify  the frequecy of the remote while operating it.
+-  identify the spike and  drease the range for more  easier identification.
 
 Decoding the RF Signal
 
