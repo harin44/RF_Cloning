@@ -26,7 +26,7 @@ Decoding the RF Signal
 Working with rolling codes
 -  [Controlling roller shutters using a remote with rolling codes](https://community.home-assistant.io/t/controlling-roller-shutters-using-a-remote-with-rolling-codes/453336)
 -  [ESPSomfy-RTS](https://github.com/rstrouse/ESPSomfy-RTS)
-
+-  [Opening Car Doors with an RTL-SDR, Arduino and CC1101 Transceiver](https://www.rtl-sdr.com/opening-car-doors-with-an-rtl-sdr-arduino-and-cc1101-transceiver/)
  
 
 
