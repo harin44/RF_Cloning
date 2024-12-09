@@ -10,6 +10,7 @@ Essential Softwares
 -  [Universal Radio Hacker](https://github.com/jopohl/urh)
   ->  Universal Radio Hacker (URH) is a tool for analyzing unknown wireless protocols.
 -  [spektrum](https://github.com/pavels/spektrum)
+    -> Spektrum Programmer allows you to configure settings, load model presets, and update the software on your receiver or transmitter.
 
 Identify the range of the RF signal 
 
