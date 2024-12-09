@@ -25,7 +25,7 @@ Decoding the RF Signal
 
 Working with rolling codes
 -  [Controlling roller shutters using a remote with rolling codes](https://community.home-assistant.io/t/controlling-roller-shutters-using-a-remote-with-rolling-codes/453336)
--  
+-  [ESPSomfy-RTS](https://github.com/rstrouse/ESPSomfy-RTS)
 
  
 
