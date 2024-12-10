@@ -29,6 +29,7 @@ Working with rolling codes
 -  [Opening Car Doors with an RTL-SDR, Arduino and CC1101 Transceiver](https://www.rtl-sdr.com/opening-car-doors-with-an-rtl-sdr-arduino-and-cc1101-transceiver/)
 -  [RollJam](https://github.com/eliddell1/RollJam)
 -  [Reverse engineering a car key fob signal (Part 1)](https://0x44.cc/radio/2024/03/13/reversing-a-car-key-fob-signal.html)
+-  [Hacking a Car’s Key Fob with a Rolljam Attack](https://www.hackster.io/news/hacking-a-car-s-key-fob-with-a-rolljam-attack-7f863c10c8da)
  
 
 
